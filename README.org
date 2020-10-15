@@ -1,0 +1,4 @@
+* PIC18F hacking
+** Microchip的PIC18F系列MCU学习记录。
+** 学习记录
+- [[https://blog.csdn.net/grey_csdn/article/details/109106569][425_PICkit2烧写PIC18F4580 MCU]]
