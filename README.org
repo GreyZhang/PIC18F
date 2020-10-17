@@ -3,3 +3,4 @@
 ** 学习记录
 - [[https://blog.csdn.net/grey_csdn/article/details/109106569][425_PICkit2烧写PIC18F4580 MCU]]
 - [[https://greyzhang.blog.csdn.net/article/details/109125770][426_PIC18F4580实现LED闪烁]]
+- [[https://greyzhang.blog.csdn.net/article/details/109131324][427_PIC18F4580 LED闪烁例程品读]]
