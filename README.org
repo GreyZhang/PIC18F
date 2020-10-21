@@ -7,4 +7,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/109141344][428_PIC18F4580驱动共阳数码管]]
 - [[https://greyzhang.blog.csdn.net/article/details/109169973][429_PIC18F4580使用MPLAB配置部分驱动]]
 - [[https://greyzhang.blog.csdn.net/article/details/109188283][430_PIC18F4580串口发送例程调试与测试]]
+- [[https://greyzhang.blog.csdn.net/article/details/109209247][431_PIC18F4580流水灯例程调试]]
   
