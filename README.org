@@ -11,4 +11,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/109229139][432_PIC18F4580串口通信例程分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/109250063][433_PIC18F4580串口接收例程分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/109255417][434_PIC18F4580数码管动态显示例程分析与修改]]
+- [[https://greyzhang.blog.csdn.net/article/details/109270026][435_PIC18F4580 stdint数据类型支持]]
   
